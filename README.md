@@ -41,10 +41,10 @@ I bridge the gap between **rigorous data quality** and **actionable business int
 - Validated raw data streams for accuracy and inconsistencies prior to visual modelling.
 - Created interactive **Power BI** dashboards detailing revenue KPIs, customer retention, and churn metrics.
 
-### 🔍 [Data Quality & Pipeline Validation Framework](https://github.com/shruthir2517)
-- Built automated validation scripts to test data integrity across staging and production tables.
-- Developed comprehensive test cases ensuring zero-loss ETL execution and schema compliance.
-- Reduced manual data verification effort by 40%.
+### 🔍 [Cryptocurrency Market Analysis](https://github.com/shruthir2517/crypto-market-analysis)
+- Built an end-to-end Python pipeline fetching live market data via CoinGecko REST API and parsing JSON into structured DataFrames.
+- Engineered financial metrics—including daily percentage changes and 7-day moving averages—to track price volatility and market trends.
+- Visualized performance trajectories using Matplotlib and automated exported reports to CSV for downstream analysis.
 
 ---
 
