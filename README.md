@@ -51,7 +51,7 @@ I bridge the gap between **rigorous data quality** and **actionable business int
 ## 🚀 What I'm Currently Up To
 
 - 🔭 **Currently working on**: Expanding advanced data visualization and predictive modeling projects.
-- 🌱 **Currently learning**: Advanced SQL optimization techniques and Cloud Data Warehousing (Snowflake / AWS).
+- 🌱 **Currently learning**: Advanced SQL ,Playwright , Pytest.
 - 💬 **Ask me about**: QA Test Automation, Data Integrity, Power BI Dashboards, and SQL Query Optimization.
 - 👯 **Looking to collaborate on**: Open-source Data Analytics, Data Quality toolkits, and BI dashboard initiatives.
 
